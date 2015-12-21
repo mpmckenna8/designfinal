@@ -1,0 +1,33 @@
+{
+  "wata": {
+    "x":30,
+    "y":500,
+    "width": 60,
+    "height": 60,
+    "pixelRatio": 1,
+    "sdf": false
+    },
+  "redsie":{
+    "x":10,
+    "y":650,
+    "width": 20,
+    "height":20,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "landsie":{
+    "x": 110,
+    "y": 410,
+    "width": 20,
+    "height": 20,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "wood":{
+    "x":20,
+    "y": 30,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 1,
+    "sdf": false  }
+}
